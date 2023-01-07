@@ -1,0 +1,20 @@
+.specific_phone{
+    /* border: 1px solid black; */
+    padding: 15px 10px;
+}
+.phone_img{
+    width: 100%;
+}
+.phone_details{
+    text-align: center;
+    line-height: 2rem;
+}
+
+.phone_details button{
+    background: #db0d0d;
+    padding: 4px 30px;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+}

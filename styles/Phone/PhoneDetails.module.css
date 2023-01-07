@@ -1,0 +1,39 @@
+.phone_details{
+    height: 80vh;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    align-items: center;
+    justify-items: center;
+}
+
+.phone_details_info h1{
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.features h2, .others h2{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #8b8b8b;
+}
+.features_details, .others_info{
+    line-height: 2rem;
+    color: #575757;
+    margin-bottom: 15px;
+}
+
+.brand_products{
+    background: red;
+    color: white;
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 8px 0;
+    border-radius: 15px;
+}

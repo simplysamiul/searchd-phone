@@ -1,0 +1,18 @@
+.search_area{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.search_title{
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.search_input input{
+    width: 70%;
+    border: 1px solid black;
+    padding: 8px 5px;
+    border-radius: 5px;
+}
+
